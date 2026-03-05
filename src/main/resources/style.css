@@ -1,0 +1,33 @@
+
+.menu-bar {
+    -fx-background-color: #b57c2f;
+}
+
+
+.left-panel {
+    -fx-background-color: #b57c2f;
+}
+
+
+.right-panel {
+    -fx-background-color: #66ff00;
+}
+
+
+.action-button {
+    -fx-background-color: #b57c2f;
+    -fx-text-fill: black;
+    -fx-background-radius: 10;
+    -fx-font-size: 14px;
+    -fx-pref-height: 40;
+}
+
+
+.table-view .column-header-background {
+    -fx-background-color: #9e9e9e;
+}
+
+
+.footer {
+    -fx-background-color: #cfcfcf;
+}
